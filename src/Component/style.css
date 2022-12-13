@@ -1,0 +1,10 @@
+.users{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.user{
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
